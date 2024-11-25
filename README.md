@@ -10,6 +10,9 @@ Backend que permite registrar un usuario, ingresar con un usuario existente, y r
 ![Nest](https://img.shields.io/badge/NestJS-v10.4.7-red)
 
 ![Mysql](https://img.shields.io/badge/Database-MySQL-orange)
+
+![Prisma](https://img.shields.io/badge/Prisma_ORM-v5.22.0-skyblue)
+
 ## Correr localmente
 
 Clonar proyecto
