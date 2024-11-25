@@ -45,10 +45,12 @@ Correr servidor
   - Registrar nuevo usuario
   - Ingresar con credenciales de usuario
   - Recuperar contraseña
+  - Swagger: /api
 
 -  Para desarrollo
     - Ver todos los usuarios registrados
     - Ver usuario por email
+
 ## Variables de entorno
 
 Para correr este proyecto, se necesitan añadir las siguientes variables de entorno al archivo .env
