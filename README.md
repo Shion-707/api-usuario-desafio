@@ -4,14 +4,10 @@
 Backend que permite registrar un usuario, ingresar con un usuario existente, y recuperar contraseña.
 
 
-
-![Npm](https://img.shields.io/badge/Npm-v10.1.0-blue)
-
-![Nest](https://img.shields.io/badge/NestJS-v10.4.7-red)
-
-![Mysql](https://img.shields.io/badge/Database-MySQL-orange)
-
-![Prisma](https://img.shields.io/badge/Prisma_ORM-v5.22.0-skyblue)
+<img src="https://img.shields.io/badge/Npm-v10.1.0-blue" alt="Npm Version"/>
+<img src="https://img.shields.io/badge/NestJS-v10.4.7-red" alt="Nest version">
+<img src="https://img.shields.io/badge/Database-MySQL-orange" alt="Mysql">
+<img src="https://img.shields.io/badge/Prisma_ORM-v5.22.0-skyblue" alt="Prisma version">
 
 ## Correr localmente
 
@@ -48,8 +44,8 @@ Correr servidor
   - Swagger: /api
 
 -  Para desarrollo
-    - Ver todos los usuarios registrados
-    - Ver usuario por email
+  - Ver todos los usuarios registrados
+  - Ver usuario por email
 
 ## Variables de entorno
 

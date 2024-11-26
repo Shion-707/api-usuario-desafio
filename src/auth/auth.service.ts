@@ -50,7 +50,7 @@ export class AuthService {
         const {id, ...data} = userFound;
         
         this.userServide.update(id, data);
-        this.emailService.sendEmailPassForgot(email.email.toString(), token);
+        this.emailService.sendEmailPassForgot(email.email, token);
             
         return {"message": "Email sent."};
     }

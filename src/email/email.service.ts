@@ -17,11 +17,11 @@ export class EmailService {
         });
     }
 
-    async sendEmailPassForgot(to: String, token: String){
-        const resetLink = `http://localhost:3000/auth/reset-password/${token}`;
+    async sendEmailPassForgot(to: string, token: string){
+        const resetLink = `https://api-usuario-desafio-production.up.railway.app/auth/reset-password/${token}`;
         const mailOptions = {
             from: 'Reset password',
-            to: `${to}`,
+            to,
             subject: 'Reset password',
             html: `<p>Link para recuperación de contraseña: </p> <p><a href="${resetLink}">Click aquí</a></p>`
         };
