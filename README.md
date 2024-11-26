@@ -45,8 +45,8 @@ Correr servidor
   - Swagger: /api
 
 -  Para desarrollo
-  - Ver todos los usuarios registrados
-  - Ver usuario por email
+    - Ver todos los usuarios registrados
+    - Ver usuario por email
 
 ## Variables de entorno
 
