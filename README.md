@@ -3,11 +3,12 @@
 
 Backend que permite registrar un usuario, ingresar con un usuario existente, y recuperar contraseña.
 
-
+<p align="center">
 <img src="https://img.shields.io/badge/Npm-v10.1.0-blue" alt="Npm Version"/>
 <img src="https://img.shields.io/badge/NestJS-v10.4.7-red" alt="Nest version">
 <img src="https://img.shields.io/badge/Database-MySQL-orange" alt="Mysql">
 <img src="https://img.shields.io/badge/Prisma_ORM-v5.22.0-skyblue" alt="Prisma version">
+</p>
 
 ## Correr localmente
 
